@@ -1,4 +1,4 @@
-# Mini-Project; Further Analysis of Hate Crimes
+# Mini-Project: Further Analysis of Hate Crimes
 
 This repo contains the following files:
 1. Mini-Project_Presentation.twbx - Charts and dashboard presented during class.
